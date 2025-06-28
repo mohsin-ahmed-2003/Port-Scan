@@ -1,4 +1,4 @@
-# <h1 style="text-align: center"> Port-Scan for domains</h1>
+# Port-Scan for domains
 
 Scan Network Ports of any domain also it show vulnerability of that ports
 
@@ -10,3 +10,7 @@ Scan Network Ports of any domain also it show vulnerability of that ports
   <li>Stealth mode with randomized delays</li>
   <li>Scan reports with vulnerability details</li>
 </ul>
+
+# Installation Steps
+## Clone repository
+
