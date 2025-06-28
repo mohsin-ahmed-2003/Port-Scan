@@ -29,4 +29,5 @@ pip install -r requirements.txt
 
 
 # Output screen
+<img width="776" alt="scan" src="https://github.com/user-attachments/assets/d7db5b67-32ed-4040-a9ab-d7bcfef55aac" />
 
