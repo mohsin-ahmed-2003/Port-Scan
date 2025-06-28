@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### 4. Run command:
 
-python Post-Scan.py
+python scanport.py
 
 ### 5. Then it will ask you:
 <b>Enter Target IP/hostname: </b>
