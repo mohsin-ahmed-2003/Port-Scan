@@ -3,8 +3,7 @@
 
 # Port-Scan for domains
 
-Scan Network Ports of any domain also it show vulnerability of that ports
-
+Scan Network Ports of any domain by identify <b>open ports, detect services, and assess vulnerabilities.</b>
 # Features
 
 <ul>
@@ -23,9 +22,10 @@ https://github.com/mohsin-ahmed-2003/Port-Scan
 
 cd Port-Scan
 
-### 2. Get the required library using code
+### 3. Get the required library using code
 
 pip install -r requirements.txt
+
 
 
 # Output screen
