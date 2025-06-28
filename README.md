@@ -29,4 +29,4 @@ pip install -r requirements.txt
 
 
 # Output screen
-<img width="951" alt="3" src="https://github.com/user-attachments/assets/7748ccf4-68cc-4978-a1af-5e3f2f1c24c9"
+
