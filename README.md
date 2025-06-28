@@ -16,7 +16,7 @@ Scan Network Ports of any domain also it show vulnerability of that ports
 
 # Installation Steps
 ### 1. Clone repository
-''' bash 
+''' python 
 https://github.com/mohsin-ahmed-2003/Port-Scan
 
 ### 2. Go to that folder
