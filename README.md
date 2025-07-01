@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-# Port-Scan for domains
+# Port-Scan for domains/Networks
 
 Scan Network Ports of any domain by identify <b>open ports, detect services, and assess vulnerabilities.</b>
 # Features
